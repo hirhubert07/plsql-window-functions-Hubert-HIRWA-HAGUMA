@@ -80,3 +80,6 @@ order by total_revenue desc;
 #References:
 1. https://www.w3schools.com/sql/
 2. https://www.youtube.com/watch?v=OT1RErkfLNQ
+
+“All sources were properly cited. Implementations and analysis represent original work. No AIgenerated
+content was copied without attribution or adaptation.”   
